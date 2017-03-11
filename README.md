@@ -1,2 +1,9 @@
 # partkeeprprinter
-follows
+Requires:
+A linux os with
+jre
+glables
+curl
+appache
+php
+
